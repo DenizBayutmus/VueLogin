@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "userName": null,
+      "fullName": null,
+      "password": "U2FsdGVkX1/kfUBUaEcbitm7NPBgeO7OY3DNa31KWGU=",
+      "fullname": "Deniz Bayutmuş",
+      "username": "dbytms",
+      "id": 1
+    },
+    {
+      "userName": null,
+      "fullName": null,
+      "password": "61e56f38e05691aa7f6d2583548d1f5987e15fc4",
+      "fullname": "Derya Bayutmuş",
+      "username": "bderya",
+      "id": 2
+    },
+    {
+      "userName": null,
+      "fullName": null,
+      "password": "61e56f38e05691aa7f6d2583548d1f5987e15fc4",
+      "fullname": "yunus emre",
+      "username": "yemre",
+      "id": 3
+    },
+    {
+      "username": "gbytms",
+      "fullname": "Gönül Bayutmuş",
+      "password": "61e56f38e05691aa7f6d2583548d1f5987e15fc4",
+      "id": 4
+    }
+  ]
+}
